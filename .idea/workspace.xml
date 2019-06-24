@@ -2,34 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34e343f4-49e6-4f13-b6df-c9c77258dd29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticalDataStructureAndAlgorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticalDataStructureAndAlgorithm/ContructorAssignments/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticalDataStructureAndAlgorithm/ContructorAssignments/Zoo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticalDataStructureAndAlgorithm/META-INF/PracticalDataStructureAndAlgorithm.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticalDataStructureAndAlgorithm/UseOfConstructor/Human.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticalDataStructureAndAlgorithm/UseOfConstructor/UseOfConstructor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticalDataStructureAndAlgorithm/ds/Stack/AppStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticalDataStructureAndAlgorithm/ds/Stack/Stack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticalDataStructureAndAlgorithm/ds/Stack/deStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticalDataStructureAndAlgorithm/ds/queque/AppQue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PracticalDataStructureAndAlgorithm/ds/queque/queque.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContructorAssignments/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContructorAssignments/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseOfConstructor/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UseOfConstructor/UseOfConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ds/Stack/AppStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ds/Stack/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ds/Stack/deStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ds/queque/AppQue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ds/queque/queque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PracticalDataStructureAndAlgorithm/META-INF/PracticalDataStructureAndAlgorithm.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContructorAssignments/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContructorAssignments/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContructorAssignments/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContructorAssignments/Zoo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,11 +33,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ds/Stack/AppStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="23" column="65" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+            <state relative-caret-position="313">
+              <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ContructorAssignments/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="24" column="61" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ContructorAssignments/Zoo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -99,8 +92,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/UseOfConstructor/Human.java" />
         <option value="$PROJECT_DIR$/src/UseOfConstructor/UseOfConstructor.java" />
-        <option value="$PROJECT_DIR$/src/ContructorAssignments/Animal.java" />
-        <option value="$PROJECT_DIR$/src/ContructorAssignments/Zoo.java" />
         <option value="$PROJECT_DIR$/src/StackDataStructure/PushAndPop.java" />
         <option value="$PROJECT_DIR$/src/Stack/PushAndPop.java" />
         <option value="$PROJECT_DIR$/src/ds/Stack/PushAndPop.java" />
@@ -112,27 +103,29 @@
         <option value="$PROJECT_DIR$/src/ds/queque/queque.java" />
         <option value="$PROJECT_DIR$/src/ds/queque/AppQue.java" />
         <option value="$PROJECT_DIR$/src/ds/Stack/AppStack.java" />
+        <option value="$PROJECT_DIR$/src/ContructorAssignments/Animal.java" />
+        <option value="$PROJECT_DIR$/src/ContructorAssignments/Zoo.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="93" />
-    <option name="y" value="80" />
-    <option name="width" value="1750" />
-    <option name="height" value="985" />
+    <option name="x" value="198" />
+    <option name="y" value="147" />
+    <option name="width" value="1943" />
+    <option name="height" value="1103" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559092632971" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561331570444" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -224,8 +217,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2657718" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26979867" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -262,24 +256,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ContructorAssignments/Zoo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/UseOfConstructor/Human.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ContructorAssignments/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -328,8 +308,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ds/Stack/AppStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="23" column="65" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+        <state relative-caret-position="313">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ContructorAssignments/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="24" column="61" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ContructorAssignments/Zoo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

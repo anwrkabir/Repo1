@@ -20,6 +20,12 @@ public class Animal {
         System.out.println("age of the animal is "+ age);
         System.out.println("gender of the animal is "+ gender);
         System.out.println("weight of the animal is " + weight);
+        System.out.println("make changes in foreign repo1 ");
+        System.out.println("make changes in foreign repo2 ");
+        System.out.println("make changes in foreign repo3 ");
+        System.out.println("make changes in foreign repo4 ");
+        System.out.println("make changes in foreign repo5 ");
+        System.out.println("make changes in foreign repo6 ");
 
     }
 
